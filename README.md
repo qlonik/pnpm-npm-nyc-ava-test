@@ -5,7 +5,7 @@ in the `node_modules/.bin` folder by pnpm.
 
 Right now in the repo, `pnpm run test` will pass.
 
-However, after installing npm (`pnpm i npm@5`), `pnpm run test` fails with error:
+However, after installing npm (`pnpm i npm`), `pnpm run test` fails with error:
 
 ```
 /home/qlonik/pnpm-npm-nyc-ava-test/node_modules/.bin/npm:2
